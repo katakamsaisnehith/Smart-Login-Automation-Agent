@@ -20,10 +20,6 @@ Validate if the user is successfully logged in
 The prompt for the agent was written in natural and stepwise instructions, allowing the LLM to understand the exact task flow. This structure improves clarity and enables the model to reason through the sequence of actions needed.
 
 Sample prompt:
-
-pgsql
-Copy
-Edit
 1. Open the browser and go to https://www.farmley.com
 2. Click on the 'My Account' icon at the top-right corner
 3. Click on 'Login'
